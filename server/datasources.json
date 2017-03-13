@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "myplacehub": {
+    "host": "bk-prod-us1.cd2junihlkms.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "url": "mysql://ihann0syfqqekwz:aOfLAEu63bq0f6VND48jVe@bk-prod-us1.cd2junihlkms.us-east-1.rds.amazonaws.com/backands148754424wgfimxv2",
+    "database": "backands148754424wgfimxv2",
+    "password": "aOfLAEu63bq0f6VND48jVe",
+    "name": "myplacehub",
+    "user": "ihann0syfqqekwz",
+    "connector": "mysql"
   }
 }
