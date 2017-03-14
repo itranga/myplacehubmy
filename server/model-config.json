@@ -14,10 +14,10 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "myplacehub"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "myplacehub",
     "public": false
   },
   "ACL": {
@@ -34,5 +34,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Account": {
+    "dataSource": "myplacehub",
+    "public": true
   }
 }
